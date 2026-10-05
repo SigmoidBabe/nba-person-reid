@@ -15,7 +15,7 @@ classifiers = [
 ]
 dependencies = [
     "numpy>=1.23",
-    "opencv-python-headless>=4.6",
+    "opencv-python",
     "tensorrt>=8.6",
     "pycuda>=2022.2",
 ]
